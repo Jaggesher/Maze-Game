@@ -1,1 +1,3 @@
-# Maze-Game
+# `Maze Game`
+
+## A JaVa project
